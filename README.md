@@ -1,6 +1,6 @@
 ### Hey there 👋, I am Arya Sinha. I'm currently pursuing BSc online degree in Data Science and Programming from IIT Madras.
 I have participated in Start-a-thon, and currently working on a project which deals with the problem of indoor pollution caused by incense sticks smokes.
-[![aryaambastha's GitHub | Stats](https://stats.quine.sh/aryaambastha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aryaambastha)
+
 <!--
 **aryaambastha/aryaambastha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
